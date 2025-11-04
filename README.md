@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Apurva2911
-- 👀 I’m interested in Data Analysis,visualization 
-- 🌱 I’m currently learning Advance Data Analysis tools and techniques
+- 👋 ☁️ Hi, I’m Apurva
+👀 I’m interested in AWS | DevOps | Cloud Engineer
+🌱 I’m currently learning Advance DevOps tools and techniques 
+🚀 Passionate about automating cloud infrastructure and CI/CD pipelines.
+🔧 Skilled in **AWS, Docker, Kubernetes, Terraform, Jenkins, Linux**.
+💡 Building scalable, secure, and efficient cloud solutions.
 
 
-<!---
-Apurva2911/Apurva2911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
